@@ -1,3 +1,7 @@
+<p align="center" style="font-size: 1.5rem;">
+  🌸 👩‍💻 🤓
+</p>
+
 # 🧑‍💻 Projeto de Apresentação + 🦭 Pergunte à Foca
 
 Este repositório contém **dois mini projetos** criados como parte de um **teste de empresa júnior**:
